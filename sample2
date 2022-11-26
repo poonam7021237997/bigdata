@@ -1,0 +1,10 @@
+// hello world prog in python
+print("hello world!")
+
+
+// In java
+public class hello {
+public static void main(String []){
+  system.out.println("Hello world!! :( ");
+  }
+} 
